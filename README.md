@@ -1,2 +1,4 @@
-# hand-tool
-Design and conceptualization of a hand tool to assist people with impaired mobility, strength, or manual dexterity. Coursework for the 2nd year Design and Manufacture (ME2-DMF) course at Imperial College London.
+# About 
+Individual project for the Design and Manufacture (ME2-DMF) course. The design report submitted can be found [here]().
+
+All CAD models seen in the design analysis of the report were completed from scratch using SolidWorks.
